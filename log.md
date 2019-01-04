@@ -8,10 +8,3 @@
 
 **Link to work:** [Bundler lesson](https://github.com/pmknyc/using-bundler-v-000)
 
-### Day : 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
