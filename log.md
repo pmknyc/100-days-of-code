@@ -8,3 +8,25 @@
 
 **Link to work:** [Bundler lesson](https://github.com/pmknyc/using-bundler-v-000)
 
+### Day 2: January 4, 2019
+
+**Today's Progress**: Lessons on website scraping using Nokogiri gem for Ruby. This weekend will start coding my CLI apps projects for @FlatironSchool curriculum. #100DaysOfCode
+
+**Thoughts:** This is just an introduction to scraping. Really interesting tool but need more work with it. I'm searching for websites I could use for upcoming CLI app project. 
+
+### Day 3: January 5, 2019
+
+**Today's Progress**:  Another Flatiron School lesson/lab on Nokogiri scraping. 
+
+**Thoughts:** I get the concept and general patterns. I have little experience with HTML and CSS, so I see that makes it more challenging to see which tags to call in the Nokogiri code. 
+
+**Link to work:** [Kickstarter scraping lab](https://github.com/pmknyc/scraping-kickstarter-v-000)
+
+template below
+### Day ?: date
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Title](URL)
