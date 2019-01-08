@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 3, 2019
+### Day 1: Thursday, January 3, 2019
 
 **Today's Progress**: First day of first time doing #100daysofCode! Flatiron School student in midst of online web development bootcamp curriculum. Today: First lessons on using Ruby gems and coding Gemfile. Also worked on code challenges with other Flatiron students @ codewars.com. 
 
@@ -8,13 +8,13 @@
 
 **Link to work:** [Bundler lesson](https://github.com/pmknyc/using-bundler-v-000)
 
-### Day 2: January 4, 2019
+### Day 2: Friday, January 4, 2019
 
 **Today's Progress**: Lessons on website scraping using Nokogiri gem for Ruby. This weekend will start coding my CLI apps projects for @FlatironSchool curriculum. #100DaysOfCode
 
 **Thoughts:** This is just an introduction to scraping. Really interesting tool but need more work with it. I'm searching for websites I could use for upcoming CLI app project. 
 
-### Day 3: January 5, 2019
+### Day 3: Saturday, January 5, 2019
 
 **Today's Progress**:  Another Flatiron School lesson/lab on Nokogiri scraping. 
 
@@ -22,11 +22,20 @@
 
 **Link to work:** [Kickstarter scraping lab](https://github.com/pmknyc/scraping-kickstarter-v-000)
 
-template below
-### Day ?: date
+### Day 4: Sunday, January 6, 2019
 
 **Today's Progress**: 
+Worked 1/2 hour on code challenges; attended group code challenge with other @FlatironSchool students. 
 
 **Thoughts:** 
+Feel that today I landed below the 100days bar. Will add focused coding time Monday to make up for today. 
 
-**Link to work:** [Title](URL)
+### Day 5: Monday, January 7, 2019
+
+**Today's Progress**: 
+Reviewed and practiced Ruby Array methods with easy prefab code challenges & playing around with my own co-de. 
+
+**Thoughts:** 
+Doing code challenges recently with other students helped me realize I need better, faster fluency with methods in my fingertips, not only in my head! So I took a step back from lessons and project prep to practice familiar and new methods.
+
+
