@@ -33,9 +33,32 @@ Feel that today I landed below the 100days bar. Will add focused coding time Mon
 ### Day 5: Monday, January 7, 2019
 
 **Today's Progress**: 
-Reviewed and practiced Ruby Array methods with easy prefab code challenges & playing around with my own co-de. 
+Reviewed and practiced Ruby Array methods with easy prefab code challenges & playing around with my own code. 
 
 **Thoughts:** 
 Doing code challenges recently with other students helped me realize I need better, faster fluency with methods in my fingertips, not only in my head! So I took a step back from lessons and project prep to practice familiar and new methods.
 
+### Day 6: Tuesday, January 8, 2019
 
+**Today's Progress**: 
+Started a bootcamp-assigned Music Library CLI app by doing a quick read of project specs and pasting in relevant code from earlier, related assignments to set up the general file structure for the app.
+
+**Thoughts:** 
+Feeling excited about this! Since this is building on code I wrote for prior labs, it's a confidence-building beginning to ramp up to an independent CLI project soon. I continue to make progress! Current evidence is that it's ever easier to read and understand project descriptions and RSpec tests. Nice!
+
+### Day 7: Wednesday, January 9, 2019
+
+**Today's Progress**: 
+Attended instructional webinar to prep for the final project of this section of the bootcamp curriculum: design and code a CLI application using object-oriented Ruby. Also worked on Music Library CLI app mentioned yesterday. Read the requirements more in-depth, then made a handwritten project flow diagram of the models, object relationships and methods for the app.
+
+**Thoughts:** 
+Mapping the project with paper & pencil is really helpful! I know this, but often skip the step and dive right into coding. Now that I'm getting into more complex code and writing a full app, it will be necessary to plan before coding! Today was good reminder that taking time to draw the project flow and write pseudocode for methods is not only fun but will improve the process and final product!
+
+~~~~~~~~~~~~~~~~~~~~~~
+daily template below
+~~~~~~~~~~~~~~~~~~~~~~
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
