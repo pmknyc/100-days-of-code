@@ -69,8 +69,7 @@ Coded basic methods for 3 main Classes in Music Library CLI app!
 I got through this in less than an hour, which is fast for me! My take-home is that I'm understanding better the object oriented concepts! I've worked kind of slowly so far in curriculum because object oriented coding is so new to me. in past I've worked in SPSS or SAS stats software coding data dictionaries, computing  variables, etc. but never with object orientation. 
 
 **Link to work:**
-(https://github.com/pmknyc/ruby-music-library-cli-v-000)
-
+[Music Library CLI](https://github.com/pmknyc/ruby-music-library-cli-v-000)
 ~~~~~~~~~~~~~~~~~~~~~~
 ### Day 9: Friday, January 11, 2019
 
