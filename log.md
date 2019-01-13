@@ -87,6 +87,9 @@ Started coding day by asking for help where stuck in Music Library CLI project. 
 **Thoughts:** 
 I knew it was a small issue to resolve but am needing lots of practice to find the sweet spot of knowing when to ask for help. Sometimes it's great to decide to stick with something until I get the tests to pass, then ask to review the code with someone and possibly refactor. Many times, though, working through a "stuck"  with someone is efficient, satisfying, and -- BONUS -- builds avenues into ongoing professional relationships in which I can  contribute and receive knowledge and support in future!  Win - win - win! 
 
+**Link to work:**
+[Music Library CLI](https://github.com/pmknyc/ruby-music-library-cli-v-000)
+
 ### Day 11: Sunday, January 13, 2019 
 
 **Today's Progress**: 
