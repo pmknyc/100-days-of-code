@@ -70,12 +70,28 @@ I got through this in less than an hour, which is fast for me! My take-home is t
 
 **Link to work:**
 [Music Library CLI](https://github.com/pmknyc/ruby-music-library-cli-v-000)
-~~~~~~~~~~~~~~~~~~~~~~
+
 ### Day 9: Friday, January 11, 2019
 
-***Today's Progress**:
+**Today's Progress**: 
+Working on how to  use **optional** arguments to an #initialize method for a Ruby Class in my Music library CLI project lab. Fun reading blogs and documentation. Alas, my code still triggering the fail **option** in RSpec tests. Sleep **option** now.  Try again tomorrow.
 
-**Thoughts**:
+**Thoughts:**
+I like to figure things out myself, but I have a goal to be more agile about knowing when to ask peers or instructors for help. I tend to work too long looking up answers or trying code variations with diminishing returns.  
+
+### Day 10: Saturday, January 12, 2019 
+
+**Today's Progress**: 
+Started coding day by asking for help where stuck in Music Library CLI project. Over that hump, I easily completed a couple more sections of the project! Requesting help at the right times an important component of effective coding!
+
+**Thoughts:** 
+I knew it was a small issue to resolve but am needing lots of practice to find the sweet spot of knowing when to ask for help. Sometimes it's great to decide to stick with something until I get the tests to pass, then ask to review the code with someone and possibly refactor. Many times, though, working through a "stuck"  with someone is efficient, satisfying, and -- BONUS -- builds avenues into ongoing professional relationships in which I can  contribute and receive knowledge and support in future!  Win - win - win! 
+
+### Day 11: Sunday, January 13, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
 ~~~~~~~~~~~~~~~~~~~~~~
 daily template below
