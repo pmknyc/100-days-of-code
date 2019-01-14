@@ -93,8 +93,10 @@ I knew it was a small issue to resolve but am needing lots of practice to find t
 ### Day 11: Sunday, January 13, 2019 
 
 **Today's Progress**: 
+Had a great time today doing some a group code challenge with fellow Flatiron School bootcamp students, with adept guidance by a tech coach. We worked on an assignment to build a Ruby tic tac toe CLI app that includes an AI component, i.e. the code includes strategy so that the computer can act as one or both players. Today we focused on writing pseudocode to lay out strategy and rough idea of methods and data structures to use.
 
 **Thoughts:** 
+Coding with others is such a distinct experience from working solo. So many opportunities to learn about oneself, as well as learn new ways to approach a coding task, new features of the language (Ruby in this case) or creative ways to apply them. I also was inclined to think of today as being less productive as compared with a similar hour of churning out code. But I pulled back from that comparison. Paired/group coding work is qualitatively different but a worthwhile use of time!
 
 ~~~~~~~~~~~~~~~~~~~~~~
 daily template below
