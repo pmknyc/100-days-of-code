@@ -98,6 +98,99 @@ Had a great time today doing some a group code challenge with fellow Flatiron Sc
 **Thoughts:** 
 Coding with others is such a distinct experience from working solo. So many opportunities to learn about oneself, as well as learn new ways to approach a coding task, new features of the language (Ruby in this case) or creative ways to apply them. I also was inclined to think of today as being less productive as compared with a similar hour of churning out code. But I pulled back from that comparison. Paired/group coding work is qualitatively different but a worthwhile use of time!
 
+### Day 12: Monday, January 14, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 13: Tuesday, January 15, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 14: Wednesday, January 16, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 15 : Thursday, January 17, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 16: Friday, January 18, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 17: Saturday, January 19, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 18: Sunday, January 20, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 19: Monday, January 21, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 20: Tuesday, January 22, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+#### 20% Completed!! ####
+
+### Day 21: Wednesday, January 23, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 22 : Thursday, January 24, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 23: Friday, January 25, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 24: Saturday, January 26, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 25: Sunday, January 27, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 26: Monday, January 28, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
 ~~~~~~~~~~~~~~~~~~~~~~
 daily template below
 ~~~~~~~~~~~~~~~~~~~~~~
