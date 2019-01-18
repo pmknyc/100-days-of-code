@@ -118,6 +118,7 @@ Coding with others is such a distinct experience from working solo. So many oppo
 
 ### Day 15 : Thursday, January 17, 2019
 
+
 **Today's Progress**: 
 
 **Thoughts:** 
