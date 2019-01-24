@@ -126,12 +126,15 @@ Coding with others is such a distinct experience from working solo. So many oppo
 ### Day 16: Friday, January 18, 2019 
 
 **Today's Progress**: 
+Took day off from coding to do lots of errands. I'll add more time tomorrow and another day to my commitment. Did some useful thought work on my projects while running around all over today. 
 
 **Thoughts:** 
+I am still working out best strategy for taking breaks from coding both short and long breaks. In retrospect on today's day off break, it helped clear my head and good to 
 
 ### Day 17: Saturday, January 19, 2019
 
 **Today's Progress**: 
+DRAFT  Another great Saturday coding session with @meisuleen & @JonFosterNy! Designing AI logic to teach the computer to play Tic Tac Toe in a Ruby CLI application. TTT is so easy, until you have to spell out each aspect of it bit by bit! So cool!
 
 **Thoughts:** 
 
@@ -158,8 +161,10 @@ Coding with others is such a distinct experience from working solo. So many oppo
 ### Day 21: Wednesday, January 23, 2019
 
 **Today's Progress**: 
+Working today with other Flatiron School student on fun, challenging lab project building a music library. Mostly I asked Socratic type questions to help her debug a few errors. This is a CLI project using Ruby classes and modules, with several "has many, through" type collaborations among the classes.
 
 **Thoughts:** 
+First session working together can be a challenge but it went well and was great learning opportunity for me. She is catching up to me in the lab so we can finish last series of criteria & RSpec tests together. Today we walked through a couple of sections together.  She was grateful for someone to "ask the right questions" and the process helped me  solidify my knowledge & confidence!   I'm getting much better feel of the key code patterns used to create collaborating objects!
 
 ### Day 22 : Thursday, January 24, 2019
 
