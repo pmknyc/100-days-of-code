@@ -129,14 +129,15 @@ Coding with others is such a distinct experience from working solo. So many oppo
 Took day off from coding to do lots of errands. I'll add more time tomorrow and another day to my commitment. Did some useful thought work on my projects while running around all over today. 
 
 **Thoughts:** 
-I am still working out best strategy for taking breaks from coding both short and long breaks. In retrospect on today's day off break, it helped clear my head and good to 
+I am still working out best strategy for taking breaks from coding both short and long breaks. In retrospect on today's day off break, it helped clear my head and return to the coding work refreshed. On the other hand, at this early stage of learning to code, some practice every day is a better strategy for retaining the skill. Definitely need some days with very different types of "work" to do.
 
 ### Day 17: Saturday, January 19, 2019
 
 **Today's Progress**: 
-DRAFT  Another great Saturday coding session with @meisuleen & @JonFosterNy! Designing AI logic to teach the computer to play Tic Tac Toe in a Ruby CLI application. TTT is so easy, until you have to spell out each aspect of it bit by bit! So cool!
+Another great Saturday group coding session with a fellow student and tech coach. We worked on designing AI logic to teach the computer to play Tic Tac Toe as an alternative way to play the game in a Ruby CLI application. 
 
 **Thoughts:** 
+TTT game is a great teaching tool for beginning coders. It's an "easy" game to play, and most everyone has played it hundreds of times. But then when you try specify the logic of all steps in playing the game, AND add a game strategy so the computer can play, you realize the complexity. It makes me appreciate not only what's involved in coding but also the amazing cognitive abilities humans have that we can easily take for granted.
 
 ### Day 18: Sunday, January 20, 2019 
 
@@ -169,8 +170,13 @@ First session working together can be a challenge but it went well and was great
 ### Day 22 : Thursday, January 24, 2019
 
 **Today's Progress**: 
+I started work on a Ruby object oriented version of a tic tac toe app, a lab in Flatiron School's full stack web dev program. Earlier in curriculum, we wrote a Ruby CLI app to play tic tac toe. I'm starting with that prior procedural code and revising it for this new approach. 
 
 **Thoughts:** 
+I admit my intent was to give myself a jump start by using the old code. The surprising benefit is that trnasforming the code from a procedural to OO approach feels like an organic transformation process in my mind. It's helping me see and feel -- in an almost somatic, sensory way -- more clearly how the OO relationships work. Acquiring that "feel" for the OO patterns and how they work is crucial, so this chance to transition a set of code seems an interesting way to make progress on that "feeling".
+
+**Link to work:**
+[Tic Tac Toe with AI - in progress](https://github.com/pmknyc/ttt-with-ai-project-v-000)
 
 ### Day 23: Friday, January 25, 2019 
 
