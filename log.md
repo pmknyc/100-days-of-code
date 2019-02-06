@@ -202,6 +202,159 @@ I admit my intent was to give myself a jump start by using the old code. The sur
 
 **Thoughts:** 
 
+### Day 27: Tuesday, January 29, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 28: Wednesday, January 30, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 29: Thursday, January 31, 2019 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 30: Friday, February 1, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 31: Saturday, February 2, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 32: Sunday, February 3, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 33: Monday, February 4, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 34: Tuesday, February 5, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 35: Wednesday, February 6, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 36: Thursday, February 7, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 37: Friday, February 8, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 38: Saturday, February 9, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 39: Sunday, February 10, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 40: Monday, February 11, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 41: Tuesday, February 12, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 42: Wednesday, February 13, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 43: Thursday, February 14, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 44: Friday, February 15, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 45: Saturday, February 16, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 46: Sunday, February 17, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 47: Monday, February 18, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 48: Tuesday, February 19, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 49: Wednesday, February 20, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+### Day 50: Thursday, February 21, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+
+
+
+
+
+
+
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~
 daily template below
