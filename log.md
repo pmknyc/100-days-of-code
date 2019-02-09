@@ -259,14 +259,21 @@ I admit my intent was to give myself a jump start by using the old code. The sur
 ### Day 36: Thursday, February 7, 2019
 
 **Today's Progress**: 
+Working with a coding buddy on our music library CLI project. We've worked together in tandem, as well as individual work that we then shared with each other, with both of us taking the lead at times. 
 
 **Thoughts:** 
+This work has been my most extended paired work to date, with a larger project involved. Other experiences have been working on smaller scope code challenges. It's fun and challenging to negotiate, implicitly or explicitly, a comfortable working relationship for paired work. Very grateful that my partner on this project was easygoing, patient with my tendency to think out loud and, I think, be more directive in approach than she tends to be. Also grateful that we tag teamed the workload amiably and she helped me get through "stuck" places when I most needed that! 
 
 ### Day 37: Friday, February 8, 2019
 
 **Today's Progress**: 
+Searching for a good data source to create a CLI application to look up Spanish verb conjugations. Found a great data base by a professor at Indiana-Purdue University in Fort Wayne.
 
 **Thoughts:** 
+One aim of this bootcamp CLI project is to learn web scraping using Ruby's Nokogiri gem. It's important to find a site with mostly HTML/CSS data, not a lot of Javascript, as well as a public access policy on using the site's data. This work on a "low tech" command line interface app is a great reminder that there is a vast wealth of resources on the Internet that have not been upgraded to the latest web development technology. Grateful for Prof. Fred Jehle for lovingly creating this rich Spanish data set for his students and making it available for non-commercial use!
+
+**Link to work:**
+[Jehle's Spanish verb conjugations resource](https://users.ipfw.edu/jehle/VERBLIST.HTM)
 
 ### Day 38: Saturday, February 9, 2019
 
