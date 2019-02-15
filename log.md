@@ -10,7 +10,7 @@
 
 ### Day 2: Friday, January 4, 2019
 
-**Today's Progress**: Lessons on website scraping using Nokogiri gem for Ruby. This weekend will start coding my CLI apps projects for @FlatironSchool curriculum. #100DaysOfCode
+**Today's Progress**: Lessons on website scraping using Nokogiri gem for Ruby. This weekend will start coding my CLI apps projects for FlatironSchool curriculum. 
 
 **Thoughts:** This is just an introduction to scraping. Really interesting tool but need more work with it. I'm searching for websites I could use for upcoming CLI app project. 
 
@@ -27,7 +27,7 @@
 ### Day 4: Sunday, January 6, 2019
 
 **Today's Progress**: 
-Worked 1/2 hour on code challenges; attended group code challenge with other @FlatironSchool students. 
+Worked 1/2 hour on code challenges; attended group code challenge with other web dev students. 
 
 **Thoughts:** 
 Feel that today I landed below the 100days bar. Will add focused coding time Monday to make up for today. 
@@ -302,14 +302,21 @@ One aim of this bootcamp CLI project is to learn web scraping using Ruby's Nokog
 ### Day 42: Wednesday, February 13, 2019
 
 **Today's Progress**: 
+Joined a new study group with fellow students from the bootcamp I'm attending. We met in NYC to practice doing "whiteboard" code challenges, similar to what many employers do (or used to do) during a technical interview for software engineer jobs. We're planning to meet once or twice weekly. Some of tonight's group, and a few others, met on Monday this week using similar format as we used tonight.  We worked on easy challenges to get to know each other and work out a format for these meetings. 
 
 **Thoughts:** 
+ The curriculum we're taking is all online, so we get few opportunities to work together in person. It was great fun, challenging, and so encouraging to meet such nice, smart people willing to help others on the same road to code as I am! It's such a different experience to be in a real, not virtual, room together, each of us taking a turn standing at the whiteboard and solving a coding challenge on the spot. We focused a lot on first writing pseudocode in whatever style. The idea is to map out one's problem solving logic, then write the code using the pseudocode as an anchor. It was 
+ 
+
 
 ### Day 43: Thursday, February 14, 2019
 
 **Today's Progress**: 
+Today I made my first contribution to a coding community discussion and support site called ruby-forum.com. I responded to two questions from people who said they were Ruby beginners. Was able to offer a solution to one, and waiting for a clarification reply from the other. 
 
 **Thoughts:** 
+I love the coding community's strong "common good" ethic and how it manifests via providing help forums and support to each other, contributing to open source applications, forming local meetups and other activities Though I worked in IT support in the past, and have always worked closely with people in tech during my academic career, I hadn't realized the extent of this ethic until beginning a coding bootcamp. Since I'm such a newbie, however, I have been reluctant to offer contributions to these kinds of resources. The ruby-forum was a good place to start. It's aimed mainly at helping Ruby beginners, so I easily found a couple of questions that seemed feasible for me to address. One was easy to solve; the user had made a simple syntax mistake. Even so, it was fun and challenging to find the bug preventing the code from returning intended output. The other question is more challenging, but helped me dig into a topic -- Ruby Hashes -- in which I know I need more practice. Hope I hear back from the user to clarify whether I understand their intended output so I can see if I can answer his question.
+
 
 ### Day 44: Friday, February 15, 2019
 
