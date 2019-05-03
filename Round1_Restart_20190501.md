@@ -25,7 +25,7 @@ Work on Github proficiency. Troubleshooting *surprise* black screen on old, work
 
 ### Day 10:
 
-=============
+===
 ### Day 11:
 
 ### Day 12: 
