@@ -40,9 +40,12 @@ Worked on a web scraping lesson using Ruby and gem Nokogiri. I'm finding that so
 
 ### Day 12: 5/12/19 Sunday 
 
-### Day 13: 
+
+### Day 13: 5/13/19 Monday
+Code challenges with Mohammad Adeel in our semi-weekly "interview practice" group. We worked on challenging codewars kata level 6. It's aim is to make a mini "linter" method to check for balanced/matching brackets/parentheses/braces. We attempted it mostly without looking for help on Internet. We're meeting later this week, after time to research options, to finish it. 
 
 ### Day 14: 
+
 
 ### Day 15: 
 
