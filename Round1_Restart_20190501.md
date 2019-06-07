@@ -47,7 +47,8 @@ Code challenges with Mohammad Adeel in our semi-weekly "interview practice" grou
 ### Day 14: 
 
 
-### Day 15: 
+### Day 15: 5/15/19 Wednesday
+Attended Code Talk study group led by Beth U. We worked on a Codewars challenge as a group.
 
 ### Day 16: 
 
@@ -58,3 +59,65 @@ Code challenges with Mohammad Adeel in our semi-weekly "interview practice" grou
 ### Day 19: 
 
 ### Day 20:
+
+### Day 21:
+
+### Day 22:
+
+### Day 23:
+
+### Day 24:
+
+### Day 25: 5/25/19 Saturday
+Attended Code Talk student study group. Discusson on pseudocode led by Mohammad Adeel.
+
+### Day 26:
+
+### Day 27:
+
+### Day 28:
+
+### Day 29:
+
+### Day 30:
+
+### Day 31: 5/31/19 Friday
+
+### Day 32: 6/1/19 Saturday
+
+### Day 33: 6/2/19 Sunday
+
+### Day 34: 6/3/19 Monday
+
+### Day 35: 6/4/19 Tuesday
+
+### Day 36: 6/5/19 Wednesday
+
+### Day 37:
+
+### Day 38:
+
+### Day 39:
+
+### Day 40:
+
+### Day 41:
+
+### Day 42:
+
+### Day 43:
+
+### Day 44:
+
+### Day 45:
+
+### Day 46:
+
+### Day 47:
+
+### Day 48:
+
+### Day 49:
+
+### Day 50:
+
