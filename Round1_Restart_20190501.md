@@ -33,24 +33,25 @@ Code challenges solo & with other students in our semi-weekly "interview practic
 Today was less coding, more time studying Git/Github and Nokogiri scraping.  
 
 ### Day 10: 5/10/19 Friday
-Practiced opening and working in prior lessons' code to get more accustomed to and troubleshoot working with new computer and local dev environment. Learning that the local environment is a living thing -- needs ongoing care and feeding (installing new gems/libraries as needed for new projects) !!
+Practiced opening and working in prior lessons' code to get more accustomed to and troubleshoot working with new computer and local dev environment. Learning that the local environment is a living thing -- needs ongoing care and feeding (installing new gems/libraries as needed for new projects)!! Also completed a lab exercise on scraping with Nokogiri.
 
 ### Day 11: 5/11/19 Saturday
 Worked on a web scraping lesson using Ruby and gem Nokogiri. I'm finding that sometimes I understand conceptually a process, such as scraping in this case, and I see what the gem is producing as output. The trick for me is to connect the documentation about using Nokogiri, the demos in lessons I've got to work with and the output from my own trial and error with the code. I'm finding Nokogiri to be especially tricky in those respects as compared with other aspects of Ruby I'm using.
 
 ### Day 12: 5/12/19 Sunday 
-
+Mother's Day. Took day off coding for some me time and time with family.
 
 ### Day 13: 5/13/19 Monday
 Code challenges with Mohammad Adeel in our semi-weekly "interview practice" group. We worked on challenging codewars kata level 6. It's aim is to make a mini "linter" method to check for balanced/matching brackets/parentheses/braces. We attempted it mostly without looking for help on Internet. We're meeting later this week, after time to research options, to finish it. 
 
-### Day 14: 
-
+### Day 14: 5/14/19 Tuesday
+Reviewing an old lab and lessons on Class variables and methods. Thought it would help with code for using Nokogiri scraping as part of a CLI application.
 
 ### Day 15: 5/15/19 Wednesday
 Attended Code Talk study group led by Beth U. We worked on a Codewars challenge as a group.
 
-### Day 16: 
+### Day 16: 5/16/19 Thursday
+A few hours of conference-call based training for new remote job working with BETAH Associates in Rockville, MD. I'll be facilitating federal grant applications peer review consensus meetings. Not much time for coding work but did host a late evening session of Code Talk student study group. I didn't line up a guest speaker tonight; worked on Codewars code challenge as a group.
 
 ### Day 17: 
 
@@ -60,16 +61,19 @@ Attended Code Talk study group led by Beth U. We worked on a Codewars challenge 
 
 ### Day 20:
 
-### Day 21:
+### Day 21: 5/21/19 Tuesday
+Traveling to DC area for job training. No coding today so listened to coding podcasts in car. Enjoying The Complete Developer by 2 developers in Nashville, TN. One is a veteran developer, the other relatively new to coding after going to medical school. I relate to their Southern way of turning a phrase and viewing the world. Also enjoy some episodes of "Learn to code with me" podcast by Laurence Bradford.
 
-### Day 22:
+### Day 22: 5/22/19 Wednesday
+Full day of job training. Exhausting day so took day off from coding. Driving home tomorrow.
 
-### Day 23:
+### Day 23: 5/23/19 Thursday
+Another long day of traveling home and still enjoying listening to podcasts. Also joined the Code Talk Flatiron student study group by phone while driving.
 
 ### Day 24:
 
 ### Day 25: 5/25/19 Saturday
-Attended Code Talk student study group. Discusson on pseudocode led by Mohammad Adeel.
+Attended Code Talk student study group. Great discusson on using pseudocode led by fellow student Mohammad Adeel.
 
 ### Day 26:
 
@@ -79,7 +83,11 @@ Attended Code Talk student study group. Discusson on pseudocode led by Mohammad 
 
 ### Day 29:
 
-### Day 30:
+### Day 30: 5/30/19 Thursday  
+Finished the "Student Scraper Lab" in curriculum today. Woo hoo! I really get the concept of scraping and could see the CSS selectors I was trying to grab, yet it was really tricky figuring out syntax needed to get Nokogiri to work its magic! 
+
+## More info: 
+https://github.com/pmknyc/oo-student-scraper-v-000
 
 ### Day 31: 5/31/19 Friday
 
@@ -93,17 +101,21 @@ Attended Code Talk student study group. Discusson on pseudocode led by Mohammad 
 
 ### Day 36: 6/5/19 Wednesday
 
-### Day 37:
+### Day 37: 6/6/19 Thursday
 
-### Day 38:
+### Day 38: 6/7/19 Friday
 
-### Day 39:
+### Day 39: 6/8/19 Saturday
 
-### Day 40:
+### Day 40: 6/9/19 Sunday
 
-### Day 41:
+### Day 41: 6/10/19 Monday
 
-### Day 42:
+### Day 42: 6/11/19 Tuesday
+Had fun today helping a fellow student. She posted on Slack asking for help resetting her *forgotten* Linux (Ubuntu) password. She's running Linux as a virtual machine in a Win 10 OS via Windows Subsystem for Linux (WSL). I found what looked like a good blog post to help and sent link. She hit a snag so we did a Zoom meeting to screenshare and troubleshoot it. The key was helping her understand that the fix's steps included commands, first, at the Windows command prompt (not within WSL) to edit an Ubuntu configuration setting. Then she had to enter Ubuntu to actually change her Linux user password.
+
+## More info: Tom Fenton's post that helped us reset Linux password.
+https://virtualizationreview.com/articles/2018/07/26/wsl-password-reset.aspx
 
 ### Day 43:
 
