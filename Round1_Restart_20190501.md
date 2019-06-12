@@ -86,7 +86,7 @@ Attended Code Talk student study group. Great discusson on using pseudocode led 
 ### Day 30: 5/30/19 Thursday  
 Finished the "Student Scraper Lab" in curriculum today. Woo hoo! I really get the concept of scraping and could see the CSS selectors I was trying to grab, yet it was really tricky figuring out syntax needed to get Nokogiri to work its magic! 
 
-## More info: 
+#### More info: 
 https://github.com/pmknyc/oo-student-scraper-v-000
 
 ### Day 31: 5/31/19 Friday
@@ -114,7 +114,7 @@ https://github.com/pmknyc/oo-student-scraper-v-000
 ### Day 42: 6/11/19 Tuesday
 Had fun today helping a fellow student. She posted on Slack asking for help resetting her *forgotten* Linux (Ubuntu) password. She's running Linux as a virtual machine in a Win 10 OS via Windows Subsystem for Linux (WSL). I found what looked like a good blog post to help and sent link. She hit a snag so we did a Zoom meeting to screenshare and troubleshoot it. The key was helping her understand that the fix's steps included commands, first, at the Windows command prompt (not within WSL) to edit an Ubuntu configuration setting. Then she had to enter Ubuntu to actually change her Linux user password.
 
-## More info: Tom Fenton's post that helped us reset Linux password.
+#### More info: Tom Fenton's post that helped us reset Linux password.
 https://virtualizationreview.com/articles/2018/07/26/wsl-password-reset.aspx
 
 ### Day 43:
