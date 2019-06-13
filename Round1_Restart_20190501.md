@@ -117,7 +117,11 @@ Had fun today helping a fellow student. She posted on Slack asking for help rese
 #### More info: Tom Fenton's post that helped us reset Linux password.
 https://virtualizationreview.com/articles/2018/07/26/wsl-password-reset.aspx
 
-### Day 43:
+### Day 43: 6/12/19 Wednesday
+Working recently on review and learning more about using Git/Github. Today, worked on a lab in curriculum; also practiced making a branch and pushing code to it using a repo shared with a study group I attend. Appeared, in the code backtrace, that the push to a new branch worked but didn't, so will try to find someone to troubleshoot with me. Also attended our regular Interview Practice Group; we did a Codewars challenge together as a group, instead of one person in "hot seat" coding solo with others observing. 
+
+#### More info: Collaborative coding with Interview Practice study group
+https://repl.it/@pmknyc/EmbellishedOverjoyedHexagons
 
 ### Day 44:
 
