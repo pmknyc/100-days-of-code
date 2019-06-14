@@ -124,7 +124,13 @@ Working recently on review and learning more about using Git/Github. Today, work
 https://repl.it/@pmknyc/EmbellishedOverjoyedHexagons
 
 ### Day 44: 6/13/19 Thursday
-Follow up on code challenge with friends last night: We used Ruby #unshift method. I tend to forget on which end of array the #shift versus #unshift methods operate due to their names.  Reading today through Array methods in ruby-doc.org, happily finding that they have aliases that make intuitive sense to me:  #push == #append (add to end of array) and #unshift == #prepend (add to front of array).
+Follow up on code challenge with friends last night: We used Ruby #unshift method. I tend to forget on which end of array the #shift versus #unshift methods operate due to their names.  Reading today through Array methods in ruby-doc.org, happily finding that they have aliases that make intuitive sense to me:  #push == #append (add to end of array) and #unshift == #prepend (add to front of array
+#### More info: 
+https://repl.it/@pmknyc/EmbellishedOverjoyedHexagons
+
+Working on updated Flatiron lessons on Git/Github. More thorough info in the lessons (yay!) and learning to work with Git in my new-ish local dev environment. Understanding the system a bit better - woo hoo! Fun playing around with a simple repo in local and remote environment, pushing code to remote. 
+#### More info: 
+https://github.com/pmknyc/push-code-with-git
 
 ### Day 45:
 
