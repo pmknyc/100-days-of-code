@@ -132,9 +132,11 @@ Working on updated Flatiron lessons on Git/Github. More thorough info in the les
 #### More info: 
 https://github.com/pmknyc/push-code-with-git
 
-### Day 45:
+### Day 45: 6/14/19 Friday
+The bootcamp curriculum I'm taking had a version upgrade recently, so I'm redoing those section. Working now on new lesson material on Git & Github. It's great to go over Git again, as I'm understaning the system much better. Good version upgrade, Flatiron!
 
-### Day 46:
+### Day 46: 6/15/19 Saturday
+Today I did lessons on introductory HTML. It's great the curriculum upgrade included the HTML and CSS sections. These are so important, as I never learned HTML & CSS in all the IT work I've done.
 
 ### Day 47:
 
